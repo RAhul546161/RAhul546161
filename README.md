@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahulsa05948575" target="blank"><img src="https://img.shields.io/twitter/follow/rahulsa05948575?logo=twitter&style=for-the-badge" alt="rahulsa05948575" /></a> </p>
 
-- 🔭 I’m currently working on **Subject Matter Expert**
+- 🔭 I’m currently working at **Web Development Intern at CodeClause**
 
 - 🌱 I’m currently learning **HTML CSS JS React**
 
